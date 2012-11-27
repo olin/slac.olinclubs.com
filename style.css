@@ -1,0 +1,11 @@
+.container-fluid { max-width: 800px; margin-left: auto; margin-right: auto; }
+
+#ninjas img { float: left; margin-right: 10px;  }
+#ninjas p { clear: left; line-height: 80px;}
+#ninjas { overflow: auto; }
+
+
+footer { margin: 40px 0 20px; text-align: center; color: #999; font-weight: bold; font-size: 16px; clear:; left;}
+footer a { color: inherit; }
+footer a:hover { color: black; }
+footer a b { color: #C26;}
